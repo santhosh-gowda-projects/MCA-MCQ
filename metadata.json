@@ -1,0 +1,6 @@
+{
+  "name": "MCA MCQ Grader & Analytics",
+  "description": "Automated grading, performance analysis, and knowledge gap reports for MCA interview preparation and entrance multiple-choice questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
